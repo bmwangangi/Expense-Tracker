@@ -1,5 +1,7 @@
 # Expense Tracker
 
+![Screenshot Description](./WhatsApp%20Image%202025-01-17%20at%2010.40.47_7a28af30.jpg)
+
 Welcome to Expense Tracker, a web application built with React.js that helps you keep track of your expenses. This expense tracker provides a simple and intuitive interface for managing your financial transactions and monitoring your spending habits.
 
 ## Features
