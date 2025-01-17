@@ -19,7 +19,7 @@ const DUMMY_EXPENSES = [
       id: "e3",
       title: "Car Insurance",
       amount: 294.67,
-      date: new Date(2024, 1, 09),
+      date: new Date(2024, 1, 9),
     },
     {
       id: "e4",
@@ -31,7 +31,7 @@ const DUMMY_EXPENSES = [
       id: "e5",
       title: "new iphone",
       amount: 1200,
-      date: new Date(2025, 1, 16),
+      date: new Date(2024, 3, 16),
     },
   ];
 
