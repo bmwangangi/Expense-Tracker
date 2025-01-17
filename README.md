@@ -1,8 +1,5 @@
 # Expense Tracker
 
-![Screenshot 2023-05-17 at 7 14 42 PM](https://github.com/ReeveFernandes/Expense-Tracker/assets/Whatsapp)
-
-
 Welcome to Expense Tracker, a web application built with React.js that helps you keep track of your expenses. This expense tracker provides a simple and intuitive interface for managing your financial transactions and monitoring your spending habits.
 
 ## Features
@@ -16,7 +13,7 @@ Welcome to Expense Tracker, a web application built with React.js that helps you
 
 ## Live Demo
 
-You can access the live demo of the Expense Tracker by clicking [here](https://my-expense-tracker.onrender.com/).
+You can access the live demo of the Expense Tracker by clicking [here](https://expense-tracker-git-main-bartasa-mwangangis-projects.vercel.app/).
 
 ## Getting Started
 
@@ -25,7 +22,7 @@ To run the application locally and explore its codebase, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ReeveFernandes/Expense-Tracker.git
+git clone https://github.com/bmwangangi/Expense-Tracker
 ```
 
 2. Navigate to the project directory:
@@ -52,8 +49,3 @@ npm start
 
 - React: [^17.0.2](https://reactjs.org/)
 
-## Acknowledgements
-
-- The Expense Tracker project is based on the React - The Complete Guide (incl Hooks, React Router, Redux) course by Academind by Maximilian Schwarzmüller on Udemy.
-
-Enjoy tracking your expenses with Expense Tracker!
